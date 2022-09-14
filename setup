@@ -1,0 +1,15 @@
+apt-get update -y
+apt-get upgrade -y
+pkg install python -y
+pkg install python2 -y
+pkg install python3 -y
+pkg install lolcat -y
+pkg install wget
+pkg install pip
+pkg install pip2
+pip install lolcat
+pip install requests
+pip install random
+pip install time
+pip install os
+pip install colorama
